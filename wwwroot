@@ -1,0 +1,7 @@
+<script>start("/Users/hello/MetricSystem/wwwroot/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("css","css",1,96,"96 B",1757832617,"13/09/2025, 23:50:17");</script>
+<script>addRow("images","images",1,96,"96 B",1757837184,"14/09/2025, 01:06:24");</script>
+<script>addRow("js","js",1,96,"96 B",1757832617,"13/09/2025, 23:50:17");</script>
+<script>addRow("lib","lib",1,192,"192 B",1757832617,"13/09/2025, 23:50:17");</script>
+<script>addRow("favicon.ico","favicon.ico",0,5430,"5.3 kB",1757832617,"13/09/2025, 23:50:17");</script>
