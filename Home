@@ -1,0 +1,4 @@
+<script>start("/Users/hello/MetricSystem/Views/Home/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("Index.cshtml","Index.cshtml",0,944,"944 B",1757841200,"14/09/2025, 02:13:20");</script>
+<script>addRow("Privacy.cshtml","Privacy.cshtml",0,144,"144 B",1757832617,"13/09/2025, 23:50:17");</script>
